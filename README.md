@@ -75,7 +75,7 @@ Perakitan komponen utama sistem smart farming, setiap komponen dipasang dan dihu
 ### 2. Proses Pemrograman Sistem
 Pemrograman mikrokontroler menggunakan Arduino IDE untuk mengatur pembacaan sensor, pengendalian pompa, serta komunikasi sistem dengan aplikasi monitoring.
 
-![Pemrograman mikrokontroler](./images/IMG-20260910-WA0041.jpg)
+![Pemrograman mikrokontroler](./images/IMG-20260911-WA0006.jpg)
 <p align="center"><i>Gambar 2: Pemrograman mikrokontroler</i></p>
 
 ### 3. Implementasi Alat pada Lahan
