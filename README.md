@@ -69,31 +69,31 @@ sistem-smart-farming-berbasis-IoT/
 ### 1. Proses Perakitan Perangkat
 Perakitan komponen utama sistem smart farming, setiap komponen dipasang dan dihubungkan sesuai fungsinya agar sistem dapat berjalan dengan baik.
 
-![Perakitan perangkat](./images/perakitan.jpg)
+![Perakitan perangkat](./images/IMG-20260910-WA0039.jpg)
 <p align="center"><i>Gambar 1: Perakitan perangkat</i></p>
 
 ### 2. Proses Pemrograman Sistem
 Pemrograman mikrokontroler menggunakan Arduino IDE untuk mengatur pembacaan sensor, pengendalian pompa, serta komunikasi sistem dengan aplikasi monitoring.
 
-![Pemrograman mikrokontroler](./images/pemrograman.jpg)
+![Pemrograman mikrokontroler](./images/IMG-20260910-WA0041.jpg)
 <p align="center"><i>Gambar 2: Pemrograman mikrokontroler</i></p>
 
 ### 3. Implementasi Alat pada Lahan
 Alat diterapkan langsung pada lahan tanaman untuk melakukan pemantauan kondisi tanaman dan mendukung proses penyiraman otomatis.
 
-![Implementasi di lahan](./images/implementasi.jpg)
+![Implementasi di lahan](./images/IMG-20260910-WA0042.jpg)
 <p align="center"><i>Gambar 3: Implementasi dan pengujian alat pada lahan</i></p>
 
 ### 4. Pemasangan Sensor Moisture ke Tanah
 Sensor dipasang pada media tanam untuk membaca kondisi kelembapan tanah sebagai dasar penentuan proses penyiraman.
 
-![Sensor moisture](./images/moisture.jpg)
+![Sensor moisture](./images/IMG-20260910-WA0043.jpg)
 <p align="center"><i>Gambar 4: Pengujian sensor moisture</i></p>
 
 ### 5. Tampilan Monitoring Blynk
 Dashboard aplikasi Blynk menampilkan data kelembapan tanah, suhu udara, kelembapan udara, status hujan, status pompa, dan tombol kontrol pompa manual.
 
-![Tampilan Blynk](./images/blynk.jpg)
+![Tampilan Blynk](./images/IMG-20260910-WA0044.jpg)
 <p align="center"><i>Gambar 5: Tampilan monitoring Blynk</i></p>
 
 ## 👤 Kontributor
