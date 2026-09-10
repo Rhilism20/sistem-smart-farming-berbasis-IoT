@@ -75,19 +75,19 @@ Perakitan komponen utama sistem smart farming, setiap komponen dipasang dan dihu
 ### 2. Proses Pemrograman Sistem
 Pemrograman mikrokontroler menggunakan Arduino IDE untuk mengatur pembacaan sensor, pengendalian pompa, serta komunikasi sistem dengan aplikasi monitoring.
 
-![Pemrograman mikrokontroler](./images/IMG-20260910-WA0040.jpg)
+![Pemrograman mikrokontroler](./images/IMG-20260910-WA0041.jpg)
 <p align="center"><i>Gambar 2: Pemrograman mikrokontroler</i></p>
 
 ### 3. Implementasi Alat pada Lahan
 Alat diterapkan langsung pada lahan tanaman untuk melakukan pemantauan kondisi tanaman dan mendukung proses penyiraman otomatis.
 
-![Implementasi di lahan](./images/IMG-20260910-WA0041.jpg)
+![Implementasi di lahan](./images/IMG-20260910-WA0042.jpg)
 <p align="center"><i>Gambar 3: Implementasi dan pengujian alat pada lahan</i></p>
 
 ### 4. Pemasangan Sensor Moisture ke Tanah
 Sensor dipasang pada media tanam untuk membaca kondisi kelembapan tanah sebagai dasar penentuan proses penyiraman.
 
-![Sensor moisture](./images/IMG-20260910-WA0042.jpg)
+![Sensor moisture](./images/IMG-20260910-WA0040.jpg)
 <p align="center"><i>Gambar 4: Pengujian sensor moisture</i></p>
 
 ### 5. Tampilan Monitoring Blynk
